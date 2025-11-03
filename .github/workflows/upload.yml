@@ -1,11 +1,12 @@
-name: Upload Images to S3
+name: Upload Images
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'images/**'
+      - "images/**"
+  workflow_dispatch:
 
 jobs:
   upload:

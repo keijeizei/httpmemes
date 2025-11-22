@@ -45,13 +45,22 @@ jobs:
                 const metadata = await sharp(inputPath).metadata();
                 const isPortrait = metadata.height > metadata.width;
 
-                await sharp(inputPath)
-                  .resize(280, 280, {
-                    fit: 'cover',
-                    position: isPortrait ? 'top' : 'center'
-                  })
-                  .jpeg({ quality: 80, mozjpeg: true })
-                  .toFile(outputPath);
+                if (isPortrait) {
+                  // Portrait - resize to 280x280, crop bottom (keep top)
+                  await sharp(inputPath)
+                    .resize(280, 280, {
+                      fit: 'cover',
+                      position: 'top'
+                    })
+                    .jpeg({ quality: 80, mozjpeg: true })
+                    .toFile(outputPath);
+                } else {
+                  // Landscape or square - resize to width 280, proportional height (no cropping)
+                  await sharp(inputPath)
+                    .resize(280, null)
+                    .jpeg({ quality: 80, mozjpeg: true })
+                    .toFile(outputPath);
+                }
 
                 console.log(`Generated: ${file.replace('.jpg', '-small.jpg')}`);
               } catch (err) {

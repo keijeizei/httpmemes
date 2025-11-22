@@ -34,9 +34,3 @@ jobs:
           aws cloudfront create-invalidation \
             --distribution-id ${{ secrets.CLOUDFRONT_ID }} \
             --paths "/*"
-
-      - name: Display upload summary
-        run: |
-          echo "✓ Images successfully uploaded to S3"
-          echo "Bucket: ${{ secrets.S3_BUCKET_NAME }}"
-          echo "Region: ${{ secrets.AWS_REGION }}"

@@ -29,6 +29,12 @@ jobs:
             --cache-control "max-age=31536000" \
             --delete
 
+      - name: Invalidate CloudFront cache
+        run: |
+          aws cloudfront create-invalidation \
+            --distribution-id ${{ secrets.CLOUDFRONT_ID }} \
+            --paths "/*"
+
       - name: Display upload summary
         run: |
           echo "✓ Images successfully uploaded to S3"

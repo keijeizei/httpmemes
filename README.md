@@ -34,10 +34,6 @@ https://httpmemes.com/418.jpg
 
 Browse all available memes at [httpmemes.com](https://httpmemes.com)
 
-## Contribute
-
-Want to add or update a meme? See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ## To-do
 
 - [x] Complete all standard HTTP status codes

@@ -87,14 +87,13 @@ jobs:
           aws s3 sync images/ s3://${{ secrets.S3_BUCKET_NAME }}/ \
             --cache-control "max-age=31536000" \
             --exclude ".gitkeep" \
-            --delete
+            --exclude "*.json"
 
       - name: Upload JSON to S3
         run: |
           aws s3 sync json/ s3://${{ secrets.S3_BUCKET_NAME }}/ \
             --cache-control "max-age=86400" \
-            --content-type "application/json" \
-            --delete
+            --content-type "application/json"
 
       - name: Invalidate CloudFront cache
         run: |

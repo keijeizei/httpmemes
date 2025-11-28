@@ -20,6 +20,7 @@ Currently, we don't have a template or an automated way to add the HTTP status c
 2. **Add your image** to the `images/` directory
    - Replace the image with your new meme (e.g. `404.jpg`)
    - You can replace multiple images in one pull request
+   - Update the corresponding `.json` file with the meme info
 3. **Create a pull request** with:
    - A title with the status code(s) you're updating
    - Why you think it's appropriate for that status code
@@ -29,6 +30,7 @@ Currently, we don't have a template or an automated way to add the HTTP status c
 1. **Create a new issue**
 2. **Include in your issue**:
    - Link to or attach the meme image
+   - Links to the meme resources
    - Which HTTP status code you think it fits
    - Why you think it's appropriate for that status code
 

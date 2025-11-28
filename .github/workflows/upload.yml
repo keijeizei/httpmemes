@@ -1,4 +1,4 @@
-name: Upload Images
+name: Upload Assets
 
 on:
   push:
@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "images/**"
+      - "json/**"
   workflow_dispatch:
 
 jobs:
@@ -86,6 +87,13 @@ jobs:
           aws s3 sync images/ s3://${{ secrets.S3_BUCKET_NAME }}/ \
             --cache-control "max-age=31536000" \
             --exclude ".gitkeep" \
+            --delete
+
+      - name: Upload JSON to S3
+        run: |
+          aws s3 sync json/ s3://${{ secrets.S3_BUCKET_NAME }}/ \
+            --cache-control "max-age=86400" \
+            --content-type "application/json" \
             --delete
 
       - name: Invalidate CloudFront cache

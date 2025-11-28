@@ -1,0 +1,16 @@
+{
+  "status_code": 406,
+  "title": "Not Acceptable",
+  "url": "https://httpmemes.com/status/406",
+  "image_url": "https://httpmemes.com/406.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>406 Not Acceptable</code> client error response status code indicates that the server could not produce a response matching the list of acceptable values defined in the request's proactive content negotiation headers and that the server was unwilling to supply a default representation.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/406"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Earl of Lemongrab</strong> is a mentally unstable anthropomorphic lemon character from Cartoon Network series <em>Adventure Time</em>. Although having relatively few appearances, he has become one of the show's most popular characters, and has spawned several memes among the fandom. <strong>Unacceptable</strong> is Lemongrab's catchphrase, used by him several times in the series.</p>",
+    "sources": ["https://knowyourmeme.com/memes/earl-of-lemongrab"]
+  }
+}

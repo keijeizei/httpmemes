@@ -1,0 +1,16 @@
+{
+  "status_code": 204,
+  "title": "No Content",
+  "url": "https://httpmemes.com/status/204",
+  "image_url": "https://httpmemes.com/204.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>204 No Content</code> successful response status code indicates that a request has succeeded, but the client doesn't need to navigate away from its current page. A <code>204</code> response is cacheable by default, and an <code>ETag</code> header is included in such cases.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/204"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Demotivational Posters</strong> are image macros intentionally designed to discourage one's moral strength and diminish one's self-esteem.</p>",
+    "sources": ["https://knowyourmeme.com/memes/demotivational-posters"]
+  }
+}

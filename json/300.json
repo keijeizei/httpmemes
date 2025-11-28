@@ -1,0 +1,16 @@
+{
+  "status_code": 300,
+  "title": "Multiple Choices",
+  "url": "https://httpmemes.com/status/300",
+  "image_url": "https://httpmemes.com/300.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>300 Multiple Choices</code> redirection response status code indicates that the request has more than one possible response. The user-agent or the user should choose one of them.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/300"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Daily Struggle</strong> is an exploitable comic featuring a character attempting to push one of two buttons labeled with contradicting statements.</p>",
+    "sources": ["https://knowyourmeme.com/memes/daily-struggle-two-buttons"]
+  }
+}

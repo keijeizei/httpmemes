@@ -1,0 +1,16 @@
+{
+  "status_code": 208,
+  "title": "Already Reported",
+  "url": "https://httpmemes.com/status/208",
+  "image_url": "https://httpmemes.com/208.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>208 Already Reported</code> successful response status code is used in a <code>207 Multi-Status</code> response to save space and avoid conflicts. This response is used exclusively in the context of Web Distributed Authoring and Versioning (WebDAV).</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/208"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Among Us</strong> is an online multiplayer murder mystery video game developed by American games studio Innersloth. The game involves 4-10 players (crewmates) attempting to identify and eliminate the randomly selected imposters, who must kill everyone before the crewmates complete their tasks. It is similar to popular hidden role games like <em>Mafia</em> and <em>Town of Salem</em>. Among Us exploded in popularity in July-August 2020 after several popular Twitch streamers began playing it.</p>",
+    "sources": ["https://knowyourmeme.com/memes/subcultures/among-us"]
+  }
+}

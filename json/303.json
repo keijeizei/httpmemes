@@ -1,0 +1,16 @@
+{
+  "status_code": 303,
+  "title": "See Other",
+  "url": "https://httpmemes.com/status/303",
+  "image_url": "https://httpmemes.com/303.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>303 See Other</code> redirection response status code indicates that the browser should redirect to the URL in the <code>Location</code> header instead of rendering the requested resource.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/303"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Distracted Boyfriend</strong>, also known as <strong>Man Looking at Other Woman</strong>, is a captioned stock photo series in which a man looks at the backside of a woman walking by while another woman, presumably his romantic partner, looks on disapprovingly.</p>",
+    "sources": ["https://knowyourmeme.com/memes/distracted-boyfriend"]
+  }
+}

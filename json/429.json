@@ -1,0 +1,16 @@
+{
+  "status_code": 429,
+  "title": "Too Many Requests",
+  "url": "https://httpmemes.com/status/429",
+  "image_url": "https://httpmemes.com/429.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>429 Too Many Requests</code> client error response status code indicates the client has sent too many requests in a given amount of time.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/429"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Willem Dafoe Looking Up</strong>, also known as <strong>Vincent van Gogh Looking Up</strong>, is a scene from the 2018 biopic <em>At Eternity's Gate</em> in which Vincent van Gogh, played by Willem Dafoe, looks up at the sky with an overwhelmed expression. The scene has been widely used as a GIF and image caption format online, typically in a literal sense to portray the meme's subject looking at something above them.</p>",
+    "sources": ["https://knowyourmeme.com/memes/willem-dafoe-looking-up"]
+  }
+}

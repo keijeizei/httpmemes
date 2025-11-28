@@ -1,0 +1,16 @@
+{
+  "status_code": 423,
+  "title": "Locked",
+  "url": "https://httpmemes.com/status/423",
+  "image_url": "https://httpmemes.com/423.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>423 Locked</code> client error response status code indicates that a resource is locked, meaning it can't be accessed.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/423"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Cheeto Lock</strong> is an image macro series in which people caption a photograph of a crunchy Cheeto snack food being used as the lock for a door. The image generally expresses a lazy or non-committal solution to a problem.</p>",
+    "sources": ["https://knowyourmeme.com/memes/cheeto-lock"]
+  }
+}

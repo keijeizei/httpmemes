@@ -1,0 +1,18 @@
+{
+  "status_code": 201,
+  "title": "Created",
+  "url": "https://httpmemes.com/status/201",
+  "image_url": "https://httpmemes.com/201.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>201 Created</code> successful response status code indicates that the HTTP request has led to the creation of a resource. This status code is commonly sent as the result of a <code>POST</code> request.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/201"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>The Powerpuff Girls Opening Parodies</strong> also known as <strong>Professor Utonium Spilling Chemical X</strong> refers to memes based on the intro of the animated series <em>The Powerpuff Girls</em>, and specifically the scene where professor Utonium messes up his formula by accidentally adding chemical X.</p>",
+    "sources": [
+      "https://knowyourmeme.com/memes/the-powerpuff-girls-opening-parodies-professor-utonium-spilling-chemical-x"
+    ]
+  }
+}

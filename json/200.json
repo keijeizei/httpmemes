@@ -1,0 +1,16 @@
+{
+  "status_code": 200,
+  "title": "OK",
+  "url": "https://httpmemes.com/status/200",
+  "image_url": "https://httpmemes.com/200.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>200 OK</code> successful response status code indicates that a request has succeeded. A <code>200 OK</code> response is cacheable by default.</p><p>A <code>200 OK</code> response has a different meaning and format depending on the HTTP request method. Here's how they vary for different methods:</p><ul><li><strong>GET:</strong> A resource was retrieved by the server and included in the response body.</li><li><strong>POST:</strong> An action succeeded; the response has a message body describing the result.</li><li><strong>HEAD:</strong> Identical to <code>GET</code>, except there is no message body.</li><li><strong>TRACE:</strong> The response has a message body containing the request as received by the server.</li></ul>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/200"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Thumbs Up Crying Cat</strong>, also known as <strong>Thumbs Up Sad Cat</strong>, is a reaction image of a cat with photoshopped teary eyes giving a thumbs up.</p><p>The image, akin to <strong>Crying Cat</strong>, is typically used to suggest sadness but with an added feeling of compliance signified by the thumbs up.</p><p>Though the earliest crying cat was posted in 2014, the Thumbs Up Crying Cat was created in June 2019 and became popular on Reddit and Twitter.</p>",
+    "sources": ["https://knowyourmeme.com/memes/thumbs-up-crying-cat"]
+  }
+}

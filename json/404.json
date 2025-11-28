@@ -1,0 +1,16 @@
+{
+  "status_code": 404,
+  "title": "Not Found",
+  "url": "https://httpmemes.com/status/404",
+  "image_url": "https://httpmemes.com/404.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>404 Not Found</code> client error response status code indicates that the server cannot find the requested resource. A <code>404</code> status code only indicates that the resource is missing without indicating if this is temporary or permanent.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/404"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Nileseyy Niles Disappears</strong> is a photo series based on a Vine video by the comedian Nileseyy Niles (real name: Niles Stewart). The photo series is often used on Black Twitter to indicate someone leaving an embarrassing situation.</p>",
+    "sources": ["https://knowyourmeme.com/memes/nileseyy-niles-disappears"]
+  }
+}

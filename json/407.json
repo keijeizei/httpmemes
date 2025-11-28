@@ -1,0 +1,16 @@
+{
+  "status_code": 407,
+  "title": "Proxy Authentication Required",
+  "url": "https://httpmemes.com/status/407",
+  "image_url": "https://httpmemes.com/407.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>407 Proxy Authentication Required</code> client error response status code indicates that the request did not succeed because it lacks valid authentication credentials for the proxy server that sits between the client and the server with access to the requested resource.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/407"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Your Verification Code is 1196</strong> refers to a screenshot of a text message conversation between an automated messaging program and a human who responded to the bot with a photo of Twitch streamer Duke Dennis wearing a green jacket and leaning against a wall. The image macro first appeared in a private Discord server in December 2022, then spread to Instagram and iFunny before becoming a TikTok meme in 2023.</p>",
+    "sources": ["https://knowyourmeme.com/memes/your-verification-code-is-1196"]
+  }
+}

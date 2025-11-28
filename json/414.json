@@ -1,0 +1,16 @@
+{
+  "status_code": 414,
+  "title": "URI Too Long",
+  "url": "https://httpmemes.com/status/414",
+  "image_url": "https://httpmemes.com/414.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>414 URI Too Long</code> client error response status code indicates that a URI requested by the client was longer than the server is willing to interpret.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/414"
+    ]
+  },
+  "meme_data": {
+    "description": "",
+    "sources": []
+  }
+}

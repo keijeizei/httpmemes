@@ -1,0 +1,16 @@
+{
+  "status_code": 506,
+  "title": "Variant Also Negotiates",
+  "url": "https://httpmemes.com/status/506",
+  "image_url": "https://httpmemes.com/506.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>506 Variant Also Negotiates</code> server error response status code is returned during content negotiation when there is recursive loop in the process of selecting a resource.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/506"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Ah, Yes. The Negotiator</strong>, also known as <strong>\"Ah, The Negotiator\"</strong> is a reaction image depicting General Grievous from <em>Star Wars Episode: III Revenge of the Sith</em> wearing his cloak and looking outwards towards the frame with the caption underneath. Both the image and catchphrase can be used together or separately to react to something above that involves someone attempting to make a deal or negotiate, particularly in a sarcastic or witty manner.</p>",
+    "sources": ["https://knowyourmeme.com/memes/ah-yes-the-negotiator"]
+  }
+}

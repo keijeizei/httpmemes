@@ -1,0 +1,18 @@
+{
+  "status_code": 503,
+  "title": "Service Unavailable",
+  "url": "https://httpmemes.com/status/503",
+  "image_url": "https://httpmemes.com/503.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>503 Service Unavailable</code> server error response status code indicates that the server is not ready to handle the request.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/503"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Coffin Dance</strong>, also known as <strong>Dancing Pallbearers</strong> or <strong>Dancing Coffin</strong>, refers to several videos showing Ghanian pallbearers dancing while they are carrying a coffin. In March 2020, the videos, paired with EDM song \"Astronomia\" by Tony Igy, gained popularity in FAIL edits.</p>",
+    "sources": [
+      "https://knowyourmeme.com/memes/coffin-dance-dancing-pallbearers"
+    ]
+  }
+}

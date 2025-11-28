@@ -1,0 +1,16 @@
+{
+  "status_code": 428,
+  "title": "Precondition Required",
+  "url": "https://httpmemes.com/status/428",
+  "image_url": "https://httpmemes.com/428.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>428 Precondition Required</code> client error response status code indicates that the server requires the request to be conditional.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/428"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Patrick's To-Do List</strong> or <strong>To-Do List, Nothing</strong> refers to an exploitable image macro based on a still image showing the <em>SpongeBob SquarePants</em> character Patrick Star listing his tasks for the day, which originally had \"nothing\" written. The image and GIF began appearing online in the late 2000s but gained viral usage in memes in May 2020 as netizens added relatable texts to the to-do list and edited the original.</p>",
+    "sources": ["https://knowyourmeme.com/memes/patricks-to-do-list"]
+  }
+}

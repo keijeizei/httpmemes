@@ -1,0 +1,16 @@
+{
+  "status_code": 511,
+  "title": "Network Authentication Required",
+  "url": "https://httpmemes.com/status/511",
+  "image_url": "https://httpmemes.com/511.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>511 Network Authentication Required</code> server error response status code indicates that the client needs to authenticate to gain network access.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/511"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Ryan Beckford</strong> is a comedian and a musician primarily known for creating multiple popular Vine videos. Online, an image of Beckford using a toy laptop, known as <strong>Black Hackerman</strong>, has been circulated as a reaction image.</p>",
+    "sources": ["https://knowyourmeme.com/memes/people/ryan-beckford"]
+  }
+}

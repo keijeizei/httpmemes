@@ -1,0 +1,16 @@
+{
+  "status_code": 412,
+  "title": "Precondition Failed",
+  "url": "https://httpmemes.com/status/412",
+  "image_url": "https://httpmemes.com/412.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>412 Precondition Failed</code> client error response status code indicates that access to the target resource was denied. This happens with conditional requests on methods other than <code>GET</code> or <code>HEAD</code> when the condition defined by the <code>If-Unmodified-Since</code> or <code>If-Match</code> headers is not fulfilled.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/412"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Disappointed Black Guy</strong> is a four-panel reaction image macro that expresses the expectation-reality meme. The format follows the following order: a picture of something (the meme author desires or anticipates) juxtaposes a photograph of a happy excited man. The third panel usually reveals the full picture of the first panel, which is very different and unappealing, followed by a picture of the same person, but now with an expression of disappointment or shock.</p>",
+    "sources": ["https://knowyourmeme.com/memes/disappointed-black-guy"]
+  }
+}

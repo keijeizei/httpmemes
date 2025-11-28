@@ -1,0 +1,16 @@
+{
+  "status_code": 405,
+  "title": "Method Not Allowed",
+  "url": "https://httpmemes.com/status/405",
+  "image_url": "https://httpmemes.com/405.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>405 Method Not Allowed</code> client error response status code indicates that the server knows the request method, but the target resource doesn't support this method. The server <strong>must</strong> generate an <code>Allow</code> header in a <code>405</code> response with a list of methods that the target resource currently supports.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/405"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Bro! Not Cool</strong> refers to a scene from the Gillette's \"The Best Men Can Be\" advertisement in which one man stops another from approaching a female passer-by. Starting January 2019, a two-panel screen capture of the scene has been used as a template for object-labeling memes.</p>",
+    "sources": ["https://knowyourmeme.com/memes/bro-not-cool"]
+  }
+}

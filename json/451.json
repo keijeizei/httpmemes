@@ -1,0 +1,16 @@
+{
+  "status_code": 451,
+  "title": "Unavailable For Legal Reasons",
+  "url": "https://httpmemes.com/status/451",
+  "image_url": "https://httpmemes.com/451.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>451 Unavailable For Legal Reasons</code> client error response status code indicates that the user requested a resource that is not available due to legal reasons, such as a web page for which a legal action has been issued.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/451"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Wait, That's Illegal</strong> refers to a reaction image taken from <em>Red vs. Blue</em> of a character saying the line. The meme became a popular reaction image used to humorously respond to situations that seem to violate rules or social norms.</p>",
+    "sources": ["https://knowyourmeme.com/memes/wait-thats-illegal"]
+  }
+}

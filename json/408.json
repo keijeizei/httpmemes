@@ -1,0 +1,18 @@
+{
+  "status_code": 408,
+  "title": "Request Timeout",
+  "url": "https://httpmemes.com/status/408",
+  "image_url": "https://httpmemes.com/408.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>408 Request Timeout</code> client error response status code indicates that the server would like to shut down this unused connection. A 408 is sent on an idle connection by some servers, even without any previous request by the client.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/408"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Gonna Prank Dad When He Gets Home</strong> is a four-panel exploitable image macro featuring YouTuber Deji (ComedyShortsGamer) holding a handful of shaving cream and hiding by the front door to smack his dad in the face, with his dad never arriving at the door. The meme originates from a 2013 YouTube video titled \"Prank Gone Wrong\" and has evolved into redraws and variations over the following years, depicting various fatherless characters waiting for their dad to get home.</p>",
+    "sources": [
+      "https://knowyourmeme.com/memes/gonna-prank-dad-when-he-gets-home"
+    ]
+  }
+}

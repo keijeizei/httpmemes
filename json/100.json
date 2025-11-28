@@ -1,0 +1,16 @@
+{
+  "status_code": 100,
+  "title": "Continue",
+  "url": "https://httpmemes.com/status/100",
+  "image_url": "https://httpmemes.com/100.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>100 Continue</code> informational response status code indicates that the initial part of a request has been received and has not yet been rejected by the server. The client should continue with a request or discard the <code>100 response</code> if the request is already finished.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/100"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Roundabout</strong> is a 1971 progressive rock song by the British rock band Yes. Due to its heavy usage in the first two arcs of the popular manga-anime series <strong>Jojo's Bizarre Adventure</strong>, the song has been frequently used by JJBA fans in various Vine and YouTube remixes, along with the <strong>To Be Continued</strong> graphic logo featured in the manga-anime series, typically at the climax of the video for comedic and suspenseful effects.</p>",
+    "sources": ["https://knowyourmeme.com/memes/yes-roundabout-to-be-continued"]
+  }
+}

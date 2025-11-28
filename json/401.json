@@ -1,0 +1,16 @@
+{
+  "status_code": 401,
+  "title": "Unauthorized",
+  "url": "https://httpmemes.com/status/401",
+  "image_url": "https://httpmemes.com/401.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>401 Unauthorized</code> client error response status code indicates that a request was not successful because it lacks valid authentication credentials for the requested resource. This status code is sent with an HTTP <code>WWW-Authenticate</code> response header that contains information on the authentication scheme the server expects the client to include to make the request successfully.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/401"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Patrick Star's Wallet</strong> refers to a scene from <em>SpongeBob SquarePants</em> in which the character Patrick Star attempts to teach a lesson about morality to the villainous Man Ray. In this scene, Man Ray role-plays returning Patrick's lost wallet. However, Patrick denies it's his despite Man Ray's logical reasoning, which causes Man Ray to revert to anger.</p>",
+    "sources": ["https://knowyourmeme.com/memes/patrick-stars-wallet"]
+  }
+}

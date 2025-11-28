@@ -1,0 +1,18 @@
+{
+  "status_code": 424,
+  "title": "Failed Dependency",
+  "url": "https://httpmemes.com/status/424",
+  "image_url": "https://httpmemes.com/424.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>424 Failed Dependency</code> client error response status code indicates that the method could not be performed on the resource because the requested action depended on another action, and that action failed.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/424"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Complex Structure Supported by a Tiny Part</strong> refers to a one-panel comic titled \"Dependency\" by artist XKCD. The webcomic, shared online in August 2020, depicts a complex structure consisting of multiple levels of elements stacked upon each other being supported by a critical tiny part, which, if removed, would cause the entire structure to collapse. In memes, the comic has been used as an object-labeling template.</p>",
+    "sources": [
+      "https://knowyourmeme.com/memes/complex-structure-supported-by-a-tiny-part"
+    ]
+  }
+}

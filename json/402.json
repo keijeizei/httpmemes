@@ -1,0 +1,18 @@
+{
+  "status_code": 402,
+  "title": "Payment Required",
+  "url": "https://httpmemes.com/status/402",
+  "image_url": "https://httpmemes.com/402.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>402 Payment Required</code> client error response status code is a <strong>nonstandard</strong> response status code reserved for future use. This status code was created to enable digital cash or (micro) payment systems and would indicate that requested content is not available until the client makes a payment. No standard use convention exists and different systems use it in different contexts.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/402"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>I Am Once Again Asking for Your Financial Support</strong> is a quote from United States politician Bernie Sanders in his December 2019 fundraising video. The phrase gained popularity as an image macro starting in mid-January 2020 on Reddit and Facebook, with memes depicting various scenarios where monetary donations are requested.</p>",
+    "sources": [
+      "https://knowyourmeme.com/memes/i-am-once-again-asking-for-your-financial-support"
+    ]
+  }
+}

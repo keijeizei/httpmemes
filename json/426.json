@@ -1,0 +1,16 @@
+{
+  "status_code": 426,
+  "title": "Upgrade Required",
+  "url": "https://httpmemes.com/status/426",
+  "image_url": "https://httpmemes.com/426.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>426 Upgrade Required</code> client error response status code indicates that the server refused to perform the request using the current protocol but might be willing to do so after the client upgrades to a different protocol.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/426"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>It's Evolving, Just Backwards</strong> refers to a reaction image featuring PewDiePie saying the phrase. It is often paired with images illustrating a comparison between how things once were and how they are today, with the implication that how things are today is worse.</p>",
+    "sources": ["https://knowyourmeme.com/memes/its-evolving-just-backwards"]
+  }
+}

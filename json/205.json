@@ -1,0 +1,16 @@
+{
+  "status_code": 205,
+  "title": "Reset Content",
+  "url": "https://httpmemes.com/status/205",
+  "image_url": "https://httpmemes.com/205.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>205 Reset Content</code> successful response status code indicates that the request has been successfully processed and the client should reset the document view.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/205"
+    ]
+  },
+  "meme_data": {
+    "description": "",
+    "sources": []
+  }
+}

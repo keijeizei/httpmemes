@@ -1,0 +1,18 @@
+{
+  "status_code": 103,
+  "title": "Early Hints",
+  "url": "https://httpmemes.com/status/103",
+  "image_url": "https://httpmemes.com/103.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>103 Early Hints</code> informational response may be sent by a server while it is still preparing a response, with hints about the sites and resources that the server expects the final response will link to. This allows a browser to preconnect to sites or start preloading resources even before the server has prepared and sent a final response. Preloaded resources indicated by early hints are fetched by the client as soon as the hints are received.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/103"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Oh Yeah, It's All Coming Together</strong> is a memorable quote from Kronk, a character in the 2000 animated film <em>The Emperor's New Groove</em>. The image has been used as a reaction, often referencing fortunate circumstances or the resolution of complex problems.</p>",
+    "sources": [
+      "https://knowyourmeme.com/memes/oh-yeah-its-all-coming-together"
+    ]
+  }
+}

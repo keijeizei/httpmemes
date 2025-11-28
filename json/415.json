@@ -1,0 +1,16 @@
+{
+  "status_code": 415,
+  "title": "Unsupported Media Type",
+  "url": "https://httpmemes.com/status/415",
+  "image_url": "https://httpmemes.com/415.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>415 Unsupported Media Type</code> client error response status code indicates that the server refused to accept the request because the message content format is not supported.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/415"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Is This a Pigeon?</strong> is a memorable quote said by the protagonist character from the 1990s Japanese anime TV series <em>The Brave Fighter of Sun Fighbird</em> in a scene wherein the humanoid character erroneously identifies a butterfly as a pigeon. On Tumblr, the quote, along with a reaction image of the scene featuring the English-translated subtitle, is widely used to express utter confusion.</p>",
+    "sources": ["https://knowyourmeme.com/memes/is-this-a-pigeon"]
+  }
+}

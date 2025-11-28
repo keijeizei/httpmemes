@@ -1,0 +1,16 @@
+{
+  "status_code": 400,
+  "title": "Bad Request",
+  "url": "https://httpmemes.com/status/400",
+  "image_url": "https://httpmemes.com/400.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>400 Bad Request</code> client error response status code indicates that the server would not process the request due to something the server considered to be a client error. The reason for a <code>400</code> response is typically due to malformed request syntax, invalid request message framing, or deceptive request routing.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/400"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Baton Roue</strong> Edits are Photoshopped edits of a webcomic by French artist Corentin Penloup featuring a man riding a bicycle who crashes after putting a stick in the front wheel. Edits typically feature characters or people replacing the cyclist, with added speech bubbles.</p>",
+    "sources": ["https://knowyourmeme.com/memes/baton-roue"]
+  }
+}

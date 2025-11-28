@@ -1,0 +1,16 @@
+{
+  "status_code": 510,
+  "title": "Not Extended",
+  "url": "https://httpmemes.com/status/510",
+  "image_url": "https://httpmemes.com/510.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>510 Not Extended</code> server error response status code is sent when the client request declares an HTTP Extension that should be used to process the request, but the extension is not supported.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/510"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Exposed Nerve</strong> refers to a comic showing one creepy character \"pulling a silly prank\" on their friend which is just pulling on an exposed nerve in their arm. The comic became an exploitable and was also made into multiple viral videos on YouTube.</p>",
+    "sources": ["https://knowyourmeme.com/memes/exposed-nerve"]
+  }
+}

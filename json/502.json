@@ -1,0 +1,16 @@
+{
+  "status_code": 502,
+  "title": "Bad Gateway",
+  "url": "https://httpmemes.com/status/502",
+  "image_url": "https://httpmemes.com/502.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>502 Bad Gateway</code> server error response status code indicates that a server was acting as a gateway or proxy and that it received an invalid response from the upstream server.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/502"
+    ]
+  },
+  "meme_data": {
+    "description": "",
+    "sources": []
+  }
+}

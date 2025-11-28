@@ -1,0 +1,16 @@
+{
+  "status_code": 507,
+  "title": "Insufficient Storage",
+  "url": "https://httpmemes.com/status/507",
+  "image_url": "https://httpmemes.com/507.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>507 Insufficient Storage</code> server error response status code indicates that an action could not be performed because the server does not have enough available storage to successfully complete the request.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/507"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>\"Address Me\" Elephant</strong> is a reaction image of an elephant standing in the middle of a room captioned, \"Address me,\" a visualization of the idea of addressing \"the elephant in the room,\" an expression meaning the obvious issue that nobody wants to talk about.</p>",
+    "sources": ["https://knowyourmeme.com/memes/address-me-elephant"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status_code": 207,
+  "title": "Multi-Status",
+  "url": "https://httpmemes.com/status/207",
+  "image_url": "https://httpmemes.com/207.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>207 Multi-Status</code> successful response status code indicates a mixture of responses. This response is used exclusively in the context of Web Distributed Authoring and Versioning (WebDAV).</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/207"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Multi-Track Drifting</strong> is a conceptual meme that originated from <em>Densha de D</em>, a parody doujinshi (fan comic) of Japanese street racing series <em>Initial D</em> that replaces automobiles with trains.</p>",
+    "sources": ["https://knowyourmeme.com/memes/multi-track-drifting"]
+  }
+}

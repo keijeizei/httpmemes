@@ -1,0 +1,16 @@
+{
+  "status_code": 307,
+  "title": "Temporary Redirect",
+  "url": "https://httpmemes.com/status/307",
+  "image_url": "https://httpmemes.com/307.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>307 Temporary Redirect</code> redirection response status code indicates that the resource requested has been temporarily moved to the URL in the <code>Location</code> header.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/307"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Left Exit 12 Off Ramp</strong> is a series of exploitables in which a car swerving into an off ramp. On the highway sign, the meme's author photoshops something the author disapproves of and something they would prefer. The car swerves toward the preference.</p>",
+    "sources": ["https://knowyourmeme.com/memes/left-exit-12-off-ramp"]
+  }
+}

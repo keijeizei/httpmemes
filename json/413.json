@@ -1,0 +1,16 @@
+{
+  "status_code": 413,
+  "title": "Payload Too Large",
+  "url": "https://httpmemes.com/status/413",
+  "image_url": "https://httpmemes.com/413.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>413 Content Too Large</code> client error response status code indicates that the request entity was larger than limits defined by server.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/413"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>It's So Fucking Big</strong> is a series of image macros using a still image from a film of a woman with a surprised expression looking upwards to the camera, with a subtitle reading \"It's so fucking big.\" The macros follow a formula in which a caption at the top mentions a non-pornographic action, usually showing something innocuous, prompting her reaction.</p>",
+    "sources": ["https://knowyourmeme.com/sensitive/memes/its-so-fucking-big"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status_code": 422,
+  "title": "Unprocessable Entity",
+  "url": "https://httpmemes.com/status/422",
+  "image_url": "https://httpmemes.com/422.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>422 Unprocessable Content</code> client error response status code indicates that the server understood the content type of the request content, and the syntax of the request content was correct, but it was unable to process the contained instructions.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/422"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Math Lady / Confused Lady</strong> refers to pictures or gifs of Brazilian soap opera actress Renata Sorrah playing Nazaré Tedesco in a scene from the telenovela, <em>Senhora do Destino</em>. The pictures are often used as reaction images to express confusion.</p>",
+    "sources": ["https://knowyourmeme.com/memes/math-lady-confused-lady"]
+  }
+}

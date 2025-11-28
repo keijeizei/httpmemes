@@ -1,0 +1,16 @@
+{
+  "status_code": 206,
+  "title": "Partial Content",
+  "url": "https://httpmemes.com/status/206",
+  "image_url": "https://httpmemes.com/206.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>206 Partial Content</code> successful response status code is sent in response to a range request. The response body contains the requested ranges of data as specified in the <code>Range</code> header of the request.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/206"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>They Had Us In The First Half</strong> is a reaction image featuring a high school football player in a post-game interview after his team mounted a huge comeback in the second half. The reaction image has been used as a pairing with captions in which the first half of the text sounds good, but becomes unpleasant or distasteful in the second half.</p>",
+    "sources": ["https://knowyourmeme.com/memes/they-had-us-in-the-first-half"]
+  }
+}

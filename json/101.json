@@ -1,0 +1,16 @@
+{
+  "status_code": 101,
+  "title": "Switching Protocols",
+  "url": "https://httpmemes.com/status/101",
+  "image_url": "https://httpmemes.com/101.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>101 Switching Protocols</code> informational response status code indicates the protocol that a server has switched to. The protocol is specified in the <code>Upgrade</code> request header received from a client.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/101"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>It's Morbin' Time</strong> is a fictional catchphrase attributed to the title character in the 2022 superhero movie <strong>Morbius</strong> as part of the ongoing joke surrounding the film of inventing aspects of the movie.</p><p>In addition to being a fictional line from the film, it has been used as titles in numerous Morbius memes on Reddit, particularly on the subreddit /r/whenthe.</p>",
+    "sources": ["https://knowyourmeme.com/memes/its-morbin-time"]
+  }
+}

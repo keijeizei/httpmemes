@@ -1,0 +1,18 @@
+{
+  "status_code": 508,
+  "title": "Loop Detected",
+  "url": "https://httpmemes.com/status/508",
+  "image_url": "https://httpmemes.com/508.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>508 Loop Detected</code> server error response status code indicates that the entire operation failed because it encountered an infinite loop while processing a request with <code>Depth: infinity</code>.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/508"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Spider-Man Pointing at Spider-Man</strong> refers to an image from the 60's Spider-Man cartoon episode in which two people in Spider-Man costumes are pointing at each other.</p>",
+    "sources": [
+      "https://knowyourmeme.com/memes/spider-man-pointing-at-spider-man"
+    ]
+  }
+}

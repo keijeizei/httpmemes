@@ -1,0 +1,16 @@
+{
+  "status_code": 409,
+  "title": "Conflict",
+  "url": "https://httpmemes.com/status/409",
+  "image_url": "https://httpmemes.com/409.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>409 Conflict</code> client error response status code indicates a request conflict with the current state of the target resource.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/409"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Woman Yelling at a Cat</strong> refers to a meme format featuring a screen cap of <em>The Real Housewives of Beverly Hills</em> cast members Taylor Armstrong and Kyle Richards followed by a picture of a confused-looking cat sitting behind a dinner plate. The format gained significant popularity across the web in mid-June 2019 and the cat was later identified as Smudge the Cat.</p>",
+    "sources": ["https://knowyourmeme.com/memes/woman-yelling-at-a-cat"]
+  }
+}

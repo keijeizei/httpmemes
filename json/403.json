@@ -1,0 +1,16 @@
+{
+  "status_code": 403,
+  "title": "Forbidden",
+  "url": "https://httpmemes.com/status/403",
+  "image_url": "https://httpmemes.com/403.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>403 Forbidden</code> client error response status code indicates that the server understood the request but refused to process it. This status is similar to <code>401</code>, except that for <code>403 Forbidden</code> responses, authenticating or re-authenticating makes no difference. The request failure is tied to application logic, such as insufficient permissions to a resource or action.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/403"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>You Shall Not Pass</strong> is a memorable quote from the character Gandalf in the 2001 film <em>The Lord of the Rings: The Fellowship of the Ring</em>, based on J.R.R. Tolkien's novel. The phrase is spoken during a confrontation with the Balrog on the Bridge of Khazad-dûm and has become a popular catchphrase used in image macros and parodies.</p>",
+    "sources": ["https://knowyourmeme.com/memes/you-shall-not-pass"]
+  }
+}

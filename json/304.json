@@ -1,0 +1,18 @@
+{
+  "status_code": 304,
+  "title": "Not Modified",
+  "url": "https://httpmemes.com/status/304",
+  "image_url": "https://httpmemes.com/304.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>304 Not Modified</code> redirection response status code indicates that there is no need to retransmit the requested resources.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/304"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Wait, It's All Ohio? Always Has Been</strong> refers to an exploitable template in which two astronauts are in space. One looks at Earth and realizes the entire Earth is made up of something other than what is expected, and asks \"Wait, it's all X?\" The other astronaut, preparing a gun, says \"Always has been.\"</p>",
+    "sources": [
+      "https://knowyourmeme.com/memes/wait-its-all-ohio-always-has-been"
+    ]
+  }
+}

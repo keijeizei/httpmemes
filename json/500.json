@@ -1,0 +1,19 @@
+{
+  "status_code": 500,
+  "title": "Internal Server Error",
+  "url": "https://httpmemes.com/status/500",
+  "image_url": "https://httpmemes.com/500.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>500 Internal Server Error</code> server error response status code indicates that the server encountered an unexpected condition that prevented it from fulfilling the request. This error is a generic \"catch-all\" response to server issues, indicating that the server cannot find a more appropriate <code>5XX</code> error to respond with.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/500"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Praying to the server gods</strong> is an image depicting technicians kneeling and praying to server hardware as if performing a ritual. It is used to humorously express desperation or superstition when dealing with broken code or server outages</p>",
+    "sources": [
+      "https://www.reddit.com/r/ProgrammerHumor/comments/11q8odq/pray_to_the_servers/",
+      "https://www.reddit.com/r/memes/comments/pv2hx0/by_praying_to_the_server_gods/"
+    ]
+  }
+}

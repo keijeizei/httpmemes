@@ -1,0 +1,16 @@
+{
+  "status_code": 302,
+  "title": "Found",
+  "url": "https://httpmemes.com/status/302",
+  "image_url": "https://httpmemes.com/302.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>302 Found</code> redirection response status code indicates that the requested resource has been temporarily moved to the URL in the <code>Location</code> header.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/302"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Gordon Ramsay's Lamb Sauce</strong> refers to a series of shitpost style images referencing a 2006 episode of <em>Hell's Kitchen</em> in which Chef Gordon Ramsay berates a kitchen full of chefs, demanding to know where the lamb sauce is for a dish.</p>",
+    "sources": ["https://knowyourmeme.com/memes/gordon-ramsays-lamb-sauce"]
+  }
+}

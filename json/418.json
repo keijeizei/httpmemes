@@ -1,0 +1,18 @@
+{
+  "status_code": 418,
+  "title": "I'm a teapot",
+  "url": "https://httpmemes.com/status/418",
+  "image_url": "https://httpmemes.com/418.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>418 I'm a teapot</code> status response code indicates that the server refuses to brew coffee because it is, permanently, a teapot. A combined coffee/tea pot that is temporarily out of coffee should instead return <code>503</code>. This error is a reference to Hyper Text Coffee Pot Control Protocol defined in April Fools' jokes in 1998 and 2014.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/418"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Putting Mouth In Teapot</strong> is an image of a person pouring tea to a cup by sealing their mouth over the top of a teapot and blowing into it instead of tilting it normally. The meme is commonly used to represent users interacting with software or interfaces in unintended or overly complicated ways, when the correct solution is often simple.</p>",
+    "sources": [
+      "https://www.reddit.com/r/PeterExplainsTheJoke/comments/1nzi210/petaah_why_the_user_is_putting_his_mouth_in_teapot/"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "status_code": 410,
+  "title": "Gone",
+  "url": "https://httpmemes.com/status/410",
+  "image_url": "https://httpmemes.com/410.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>410 Gone</code> client error response status code indicates that the target resource is no longer available at the origin server and that this condition is likely to be permanent.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/410"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Grant Gustin Next to Oliver Queen's Grave</strong> is an image macro series based on a set photograph of actor Grant Gustin, who plays the titular character on CW's <em>The Flash</em>, kneeling and holding up peace sign next to the grave of Oliver Queen, also known as The Green Arrow, the DC Comics superhero from the CW series <em>Arrow</em>.</p>",
+    "sources": [
+      "https://knowyourmeme.com/memes/grant-gustin-next-to-oliver-queens-grave"
+    ]
+  }
+}

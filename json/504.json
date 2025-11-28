@@ -1,0 +1,16 @@
+{
+  "status_code": 504,
+  "title": "Gateway Timeout",
+  "url": "https://httpmemes.com/status/504",
+  "image_url": "https://httpmemes.com/504.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>504 Gateway Timeout</code> server error response status code indicates that the server, while acting as a gateway or proxy, did not get a response in time from the upstream server in order to complete the request.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/504"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Pablo Escobar Waiting</strong>, also known as <strong>Sad Pablo Escobar</strong>, is a series of three-panel image macros featuring the character Pablo Escobar (played by Wagner Moura) from the Netflix series <em>Narcos</em> staring blankly in three different screen-captures from the series. The meme expresses the sadness and boredom associated with anticipation.</p>",
+    "sources": ["https://knowyourmeme.com/memes/pablo-escobar-waiting"]
+  }
+}

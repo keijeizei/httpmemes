@@ -1,0 +1,16 @@
+{
+  "status_code": 102,
+  "title": "Processing",
+  "url": "https://httpmemes.com/status/102",
+  "image_url": "https://httpmemes.com/102.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>102 Processing</code> informational response status code indicates to client that a full request has been received and the server is working on it. This status code is only sent if the server expects the request to take significant time.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/102"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Loading Cat</strong> or <strong>Buffering Cat</strong> refers to an image of a calico cat wearing an expression of anger or confusion, with a buffering icon superimposed over its forehead. In August 2017, the image gained popularity as a reaction meme among Russian users on VK and other online platforms, and gained mainstream popularity on early Reddit in December 2019.</p>",
+    "sources": ["https://knowyourmeme.com/memes/loading-cat"]
+  }
+}

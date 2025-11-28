@@ -1,0 +1,16 @@
+{
+  "status_code": 501,
+  "title": "Not Implemented",
+  "url": "https://httpmemes.com/status/501",
+  "image_url": "https://httpmemes.com/501.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>501 Not Implemented</code> server error response status code means that the server does not support the functionality required to fulfill the request.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/501"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Berserk Skeletons</strong>, also known as <strong>Hater Skeletons</strong> and <strong>You Should Have Died</strong>, refers to a clip of red-colored skeletons from a nightmare sequence in the 1997 anime adaptation of <em>Berserk</em>. Used as a reaction since at least 2014, in March 2022, the clip (usually combined with the song \"Smoke\" by Cowbell Cult) gained virality as a reaction to disliked or cringeworthy content.</p>",
+    "sources": ["https://knowyourmeme.com/memes/berserk-skeletons"]
+  }
+}

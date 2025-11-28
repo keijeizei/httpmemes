@@ -1,0 +1,16 @@
+{
+  "status_code": 411,
+  "title": "Length Required",
+  "url": "https://httpmemes.com/status/411",
+  "image_url": "https://httpmemes.com/411.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>411 Length Required</code> client error response status code indicates that the server refused to accept the request without a defined <code>Content-Length</code> header.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/411"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>iDubbbz Measuring Tape</strong> refers to a green screen reaction starring iDubbbz holding a tape measure and saying \"That's quite big... impressive!\" and \"That's kinda small... yikes!\", typically used to mock or comment on the size of something.</p>",
+    "sources": ["https://knowyourmeme.com/memes/people/idubbbz"]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "status_code": 226,
+  "title": "IM Used",
+  "url": "https://httpmemes.com/status/226",
+  "image_url": "https://httpmemes.com/226.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>226 IM Used</code> successful response status code indicates that the server is returning a delta in response to a <code>GET</code> request. It is used in the context of HTTP delta encodings.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/226"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Look What They Need To Mimic A Fraction Of Our Power</strong> is a line of dialogue spoken by Omni-Man to Invincible in the animated TV series <em>Invincible</em> during a fight between the two. The line references a pair of fighter jets, used to illustrate how weak humans are in comparison to superhumans. The scene became an image macro in early May 2021 and gained popularity throughout that month.</p>",
+    "sources": [
+      "https://knowyourmeme.com/memes/look-what-they-need-to-mimic-a-fraction-of-our-power"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status_code": 431,
+  "title": "Request Header Fields Too Large",
+  "url": "https://httpmemes.com/status/431",
+  "image_url": "https://httpmemes.com/431.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>431 Request Header Fields Too Large</code> client error response status code indicates that the server refuses to process the request because the request's HTTP headers are too long.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/431"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Comically Large Spoon</strong>, also known as <strong>Only a Spoonful</strong>, refers to a viral Vine by Vine user King Bach in which he pulls out a comically large spoon upon being told that he can only have a spoonful of ice cream. Starting in late May 2020, the Vine regained popularity through GIF captions and humorous edits.</p>",
+    "sources": ["https://knowyourmeme.com/memes/comically-large-spoon"]
+  }
+}

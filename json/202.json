@@ -1,0 +1,16 @@
+{
+  "status_code": 202,
+  "title": "Accepted",
+  "url": "https://httpmemes.com/status/202",
+  "image_url": "https://httpmemes.com/202.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>202 Accepted</code> successful response status code indicates that a request has been accepted for processing, but processing has not been completed or may not have started. The actual processing of the request is not guaranteed; a task or action may fail or be disallowed when a server tries to process it.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/202"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Epic Handshake</strong>, also known as the <strong>Predator Handshake</strong>, is a memorable scene from the 1987 science fiction action film <em>Predator</em> in which two men greet each other with an arm-wrestle handshake. Due to the campy nature of the scene, it has inspired many parody and remix videos on YouTube, often featuring background music using popular songs from the 1980s. In the 2010s and beyond, a watercolor painting depicting the handshake became a prevalent object-labeling meme format online with captions added to both arms and the hands in the middle, typically to show agreement between two parties on something.</p>",
+    "sources": ["https://knowyourmeme.com/memes/epic-handshake"]
+  }
+}

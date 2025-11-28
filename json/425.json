@@ -1,0 +1,16 @@
+{
+  "status_code": 425,
+  "title": "Too Early",
+  "url": "https://httpmemes.com/status/425",
+  "image_url": "https://httpmemes.com/425.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>425 Too Early</code> client error response status code indicates that the server was unwilling to risk processing a request that might be replayed to avoid potential replay attacks.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/425"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>I Am Speed</strong> is a memorable quote from the Pixar film <em>Cars</em> uttered by the character Lightning McQueen as a mantra to provide confidence during a race. A screencap from the film is often used as the punchline in an image macro series popularized on /r/dankmemes.</p>",
+    "sources": ["https://knowyourmeme.com/memes/i-am-speed"]
+  }
+}

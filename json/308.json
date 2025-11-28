@@ -1,0 +1,16 @@
+{
+  "status_code": 308,
+  "title": "Permanent Redirect",
+  "url": "https://httpmemes.com/status/308",
+  "image_url": "https://httpmemes.com/308.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>308 Permanent Redirect</code> redirection response status code indicates that the requested resource has been permanently moved to the URL given by the <code>Location</code> header.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/308"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>The Backrooms</strong> is a creepypasta inspired by a comment on a picture of an \"unsettling room\" on 4chan's /x/ board. The creepypasta states that if one is not careful and \"noclips out of reality in the wrong areas\", they will end up in the Backrooms.</p>",
+    "sources": ["https://knowyourmeme.com/memes/the-backrooms"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status_code": 416,
+  "title": "Range Not Satisfiable",
+  "url": "https://httpmemes.com/status/416",
+  "image_url": "https://httpmemes.com/416.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>416 Range Not Satisfiable</code> client error response status code indicates that a server could not serve the requested ranges. The most likely reason for this response is that the document doesn't contain such ranges, or that the <code>Range</code> header value, though syntactically correct, doesn't make sense.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/416"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Steph Curry Shooting From The Moon</strong> is an image macro featuring NBA player Stephen Curry attempting to shoot a basketball from the Moon to the Earth. This is often used in response to someone making a bold or unlikely request, especially in online flirting, implying the chance of success is nearly impossible.</p>",
+    "sources": ["https://www.reddit.com/r/KnowYourMeme/comments/1i903bc/help/"]
+  }
+}

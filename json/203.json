@@ -1,0 +1,16 @@
+{
+  "status_code": 203,
+  "title": "Non-Authoritative Information",
+  "url": "https://httpmemes.com/status/203",
+  "image_url": "https://httpmemes.com/203.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>203 Non-Authoritative Information</code> successful response status code indicates that the request was successful, but a transforming proxy has modified the headers or enclosed content from the origin server's <code>200 OK</code> response.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/203"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Let's See Who This Really Is</strong>, also known as <strong>Scooby Doo Reveal</strong>, is an exploitable image macro series featuring a scene from the <em>Scooby Doo</em> animated television series in which a man dressed as a ghost is unmasked.</p>",
+    "sources": ["https://knowyourmeme.com/memes/lets-see-who-this-really-is"]
+  }
+}

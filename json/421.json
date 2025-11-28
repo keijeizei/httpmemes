@@ -1,0 +1,16 @@
+{
+  "status_code": 421,
+  "title": "Misdirected Request",
+  "url": "https://httpmemes.com/status/421",
+  "image_url": "https://httpmemes.com/421.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>421 Misdirected Request</code> client error response status code indicates that the request was directed to a server that is not able to produce a response. This can be sent by a server that is not configured to produce responses for the combination of scheme and authority that are included in the request URI.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/421"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>Dramatic Crossroads</strong>, also known as <strong>Two Roads</strong> or <strong>Two Paths</strong>, refers to a series of memes based on the artwork of the Yu-Gi-Oh! card \"Dramatic Crossroads.\" Starting in February 2020, the artwork for the card has been used as source material for object-labeling memes showing an individual faced with two choices, typically humorous in nature.</p>",
+    "sources": ["https://knowyourmeme.com/memes/dramatic-crossroads"]
+  }
+}

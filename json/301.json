@@ -1,0 +1,18 @@
+{
+  "status_code": 301,
+  "title": "Moved Permanently",
+  "url": "https://httpmemes.com/status/301",
+  "image_url": "https://httpmemes.com/301.jpg",
+  "status_code_data": {
+    "description": "<p>The HTTP <code>301 Moved Permanently</code> redirection response status code indicates that the requested resource has been permanently moved to the URL in the <code>Location</code> header.</p>",
+    "sources": [
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/301"
+    ]
+  },
+  "meme_data": {
+    "description": "<p><strong>50,000 People Used to Live Here. Now It's a Ghost Town</strong> refers to a memorable quote from the 2008 video game <em>Call of Duty 4: Modern Warfare</em> describing the ghost city of Pripyat. Online, the quote and image macros based on it have been used as a way to describe various abandoned communities, such as old multiplayer games that lost their user base. In September 2021, an audio clip of the quote became a trend in lip-dub skits on TikTok.</p>",
+    "sources": [
+      "https://knowyourmeme.com/memes/50000-people-used-to-live-here-now-its-a-ghost-town"
+    ]
+  }
+}
